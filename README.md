@@ -1,6 +1,6 @@
 # 🎬 Video Editing App with Nextjs (Frontend Only)
 
-A feature-rich, frontend-only video editing application built using **Next.js** and **React**, offering an interactive timeline-based UI with support for drag-and-drop, trimming, media overlays, and canvas rendering.
+A feature-rich, frontend-only video editing application built using **Next.js** and **React**, offering an interactive UI with support for drag-and-drop, media overlays, and canvas rendering.
 
 > 🚧 Note: This is a frontend-only project with no backend integration. All data is handled in-browser.
 
