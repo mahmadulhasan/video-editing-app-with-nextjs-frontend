@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+body {
+  background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(207, 207, 207, 1) 50%, rgba(158, 157, 157, 1) 100%);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.headertext {
+  font-size: 5rem;
+  font-weight: 900;
+  color: #989696;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.homeimg {
+  max-width: 900px;
+  overflow: hidden !important;
+  border-radius: 10px;
+}
+
+.icon img {
+  width: 50px !important;
+  height: 50px !important;
+  object-fit: cover !important;
+
+}
+
+.navbar {
+  background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(251, 251, 251, 0.801) 50%, rgba(254, 254, 254, 0.616) 100%);
+  
+ 
+}
+
+.nav-item {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2c0606;
+  text-align: center;
+}
+
+.nav-item:hover {
+  transform: scale(1.1);
+}
