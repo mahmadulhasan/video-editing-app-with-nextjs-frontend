@@ -9,11 +9,8 @@ A feature-rich, frontend-only video editing application built using **Next.js** 
 ## ✨ Features
 
 - Upload and preview video files
-- Interactive timeline with draggable/resizable segments
 - Scene trimming and rearrangement
 - Add and manipulate text/image overlays on canvas
-- Zoomable thumbnail strip for better editing control
-- Redux-powered state management for performance
 - Responsive, modern UI built with Tailwind CSS
 
 ---
